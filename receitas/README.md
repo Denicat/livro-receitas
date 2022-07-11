@@ -6,10 +6,6 @@
 
 : 
 
-wave
-
-******
-
 Pavê
 
-
+Bolo de cenoura
